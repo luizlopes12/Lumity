@@ -1,0 +1,10 @@
+
+Sites utilizados como referencia:
+
+Fonte: https://fonts.google.com/specimen/Roboto?preview.text_type=custom
+Icones: https://www.flaticon.com/
+Pesquisas: https://www.w3schools.com/html/default.asp
+Referencia de layout e imagens: https://www.yamamura.com.br/
+Botões: fiz em css e tirei print, depois tirei o fundo branco no photoshop.
+ilustrações: https://undraw.co/
+gif: https://giphy.com/
